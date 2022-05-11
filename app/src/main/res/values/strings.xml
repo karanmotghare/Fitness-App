@@ -9,4 +9,7 @@
     <string name="go">GO</string>
     <string name="next_workout">NEXT WORKOUT</string>
     <string name="try_again">TRY AGAIN</string>
+    <string name="this_is_fitness_app_happy_exercise">This is fitness app happy exercise</string>
+    <string name="about_string">About</string>
+    <string name="about">About</string>
 </resources>

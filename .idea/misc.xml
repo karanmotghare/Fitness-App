@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/fragment_blank.xml" value="0.264" />
         <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/fragment_exercise.xml" value="0.25416666666666665" />
         <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/fragment_start.xml" value="0.25416666666666665" />
         <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/fragment_try_again.xml" value="0.25416666666666665" />
         <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/layout/fragment_well_done.xml" value="0.25416666666666665" />
+        <entry key="..\:/Andriod App/FitnessApp/app/src/main/res/menu/overflow_menu.xml" value="0.253125" />
       </map>
     </option>
   </component>
